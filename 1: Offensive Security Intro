@@ -1,0 +1,9 @@
+1: -Offensive scurity represents the process where you simulate a hacker's actions to find vulnerabilities in a system
+2: -First Hack =We will use a command-line application called "Gobuster" to brute-force
+  steps:
+  1:open terminal 
+  2:Use Gobuster To Find Hidden Website Pages
+  $ gobuster -u http://fakebank.thm -w wordlist.txt dir
+  In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages.
+  if you find any webpages then add om wed the /+name of the hidden page From this page, an attacker has authorized access
+  
