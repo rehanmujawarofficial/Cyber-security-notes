@@ -1,0 +1,37 @@
+1: how many results you get when searching for learn hacking. At the time of writing, we got 1.5 billion results when searching on Google.
+2: -search operators supported by Google.
+  i- "exact phrase": Double quotes indicate that you are looking for pages with the exact word or phrase. For example, one might search for "passive reconnaissance" to get pages with this exact phrase.
+  ii- site:: This operator lets you specify the domain name to which you want to limit your search. For example, we can search for success stories on TryHackMe using site:tryhackme.com success stories.
+  iii- - The minus sign allows you to omit search results that contain a particular word or phrase. For example, you might be interested in learning about the pyramids, but you don’t want to view tourism websites; one approach is to search for pyramids -tourism or -tourism pyramids.
+  iv- filetype:: This search operator is indispensable for finding files instead of web pages. Some of the file types you can search for using Google are Portable Document Format (PDF), Microsoft Word Document (DOC), Microsoft Excel Spreadsheet (XLS), and Microsoft PowerPoint Presentation (PPT). For example, to find cyber security presentations, try searching for filetype:ppt cyber security.
+3: netstat and ss =The Linux command ss stands for socket statistics. It is used to display information about network sockets on a Linux system. 
+The ss command is a more modern and faster alternative to the older netstat command. 
+4: Shodan
+Let’s start with Shodan, a search engine for devices connected to the Internet.
+It allows you to search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices.
+You may want to see how many servers are still running Apache 2.4.1 and the distribution across countries. 
+To find the answer, we can search for apache 2.4.1, which will return the list of servers with the string “apache 2.4.1” in their headers.
+5: Censys
+At first glance, Censys appears similar to Shodan. However, Shodan focuses on Internet-connected devices and systems,
+such as servers, routers, webcams, and IoT devices. Censys, on the other hand, focuses on Internet-connected hosts, websites, certificates, and other Internet assets. 
+Some of its use cases include enumerating domains in use, auditing open ports and services, and discovering rogue assets within a network
+6: VirusTotal
+VirusTotal is an online website that provides a virus-scanning service for files using multiple antivirus engines. 
+It allows users to upload files or provide URLs to scan them against numerous antivirus engines and website scanners in a single operation. 
+They can even input file hashes to check the results of previously uploaded files.
+7: VirusTotal
+VirusTotal is an online website that provides a virus-scanning service for files using multiple antivirus engines. 
+It allows users to upload files or provide URLs to scan them against numerous antivirus engines and website scanners in a single operation. 
+They can even input file hashes to check the results of previously uploaded files.
+8: CVE
+We can think of the Common Vulnerabilities and Exposures (CVE) program as a dictionary of vulnerabilities. 
+It provides a standardized identifier for vulnerabilities and security issues in software and hardware products. 
+Each vulnerability is assigned a CVE ID with a standardized format like CVE-2024-29988.
+This unique identifier (CVE ID) ensures that everyone from security researchers to vendors and IT professionals is referring to the same vulnerability, CVE-2024-29988 in this case.
+9: Exploit Database
+There are many reasons why you would want to exploit a vulnerable application; one would be assessing a company’s security as part of its red team.
+Needless to say, we should not try to exploit a vulnerable system unless we are given permission, usually via a legally binding agreement.
+10: GitHub
+a web-based platform for software development, can contain many tools related to CVEs, along with proof-of-concept (PoC) and exploit codes.
+To demonstrate this idea, check the screenshot below of search results on GitHub that are related to the Heartbleed vulnerability.
+11: 
