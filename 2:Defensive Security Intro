@@ -1,0 +1,8 @@
+1: Blue Team focuses on defensive security
+  1: Security Operations Center (SOC) =A Security Operations Center (SOC) is a team of cyber security professionals that monitors the network and its systems to detect malicious cyber security events
+  2: Threat Intelligence = intelligence refers to information you gather about actual and potential enemies. A threat is any action that can disrupt or adversely affect a system
+  3: Digital Forensics and Incident Response (DFIR)
+    i -Forensics is the application of science to investigate crimes and establish facts. 
+    ii -An incident usually refers to a data breach or cyber attack; however, in some cases, it can be something less critical, such as a misconfiguration, an intrusion attempt, or a policy violation.
+    iii -Malware Analysis :Malware stands for malicious software. Software refers to programs, documents, and files you can save on a disk or send over the network.
+  4: Malware Analysis : static and dynamic analysis
