@@ -1,0 +1,7 @@
+1: Welcome to the first part of the "Linux Fundamentals" room series. You're most likely using a Windows or Mac machine, both are different in visual design and how they operate. Just like Windows, iOS and MacOS, Linux is just another operating system and one of the most popular in the world powering smart cars, android devices, supercomputers, home appliances, enterprise servers, and more.
+2: runing a basic commands =ls ,whoami, cat,  echo, pwd, find,like a =find -name passwords.txt ,find -name *.txt, wc -l access.log,grep "81.143.211.90" access.log
+3:Symbol / Operator	Description
+&	This operator allows you to run commands in the background of your terminal.
+&&	This operator allows you to combine multiple commands together in one line of your terminal.
+>	This operator is a redirector - meaning that we can take the output from a command (such as using cat to output a file) and direct it elsewhere.
+>>	This operator does the same function of the > operator but appends the output rather than replacing (meaning nothing is overwritten).
